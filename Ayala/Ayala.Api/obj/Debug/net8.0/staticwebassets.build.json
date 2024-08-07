@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pksRHqVMd5EnPsSar7IjP+3vF4PdK1gZrS0laJzQn9Q=",
+  "Source": "Ayala.Api",
+  "BasePath": "_content/Ayala.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

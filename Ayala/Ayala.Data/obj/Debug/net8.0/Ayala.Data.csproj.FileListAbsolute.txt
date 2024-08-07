@@ -1,0 +1,17 @@
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Data.deps.json
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Data.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Data.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Core.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Core.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.csproj.AssemblyReference.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.AssemblyInfoInputs.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.AssemblyInfo.cs
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.csproj.CoreCompileInputs.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.csproj.CopyComplete
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\refint\Ayala.Data.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\ref\Ayala.Data.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\bin\Debug\net8.0\Ayala.Data.runtimeconfig.json
+C:\אילי\מל''מ\server\Ayala\Ayala.Data\obj\Debug\net8.0\Ayala.Data.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\bin\Debug\net8.0\Ayala.Service_.deps.json
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\bin\Debug\net8.0\Ayala.Service_.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\bin\Debug\net8.0\Ayala.Service_.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\bin\Debug\net8.0\Ayala.Core.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\bin\Debug\net8.0\Ayala.Core.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.csproj.AssemblyReference.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.GeneratedMSBuildEditorConfig.editorconfig
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.AssemblyInfoInputs.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.AssemblyInfo.cs
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.csproj.CoreCompileInputs.cache
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.csproj.CopyComplete
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\refint\Ayala.Service_.dll
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\Ayala.Service_.pdb
+C:\אילי\מל''מ\server\Ayala\Ayala.Service_\obj\Debug\net8.0\ref\Ayala.Service_.dll
